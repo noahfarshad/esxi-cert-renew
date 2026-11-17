@@ -1,0 +1,14 @@
+# The rehearsal's names, on loopback addresses. e2e.sh mounts this over /etc/hosts
+# inside its own network namespace; nothing outside that namespace sees it.
+127.0.0.1 localhost
+127.0.0.2 vcsa01.example.com
+127.0.1.1 esx01.example.com
+127.0.1.2 esx02.example.com
+127.0.1.3 esx03.example.com
+127.0.1.4 esx04.example.com
+127.0.1.5 esx05.example.com
+127.0.1.6 esx06.example.com
+127.0.1.7 esx07.example.com
+127.0.1.8 esx08.example.com
+127.0.1.9 esx09.example.com
+127.0.1.10 esx10.example.com

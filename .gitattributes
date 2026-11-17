@@ -1,0 +1,6 @@
+# The bench is Linux only: keep its files with LF line ends on any checkout.
+*.sh text eol=lf
+*.go text eol=lf
+bench/hosts text eol=lf
+go.mod text eol=lf
+go.sum text eol=lf
